@@ -2,3 +2,6 @@ Makefile
 .deps
 config.log
 config.status
+
+*.a
+*.o
